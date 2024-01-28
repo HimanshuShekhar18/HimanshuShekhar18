@@ -1,5 +1,4 @@
-[![MasterHead]([https://gifer.com/en/JXA0](https://i.gifer.com/JXA0.gif))]
-
+[![MasterHead](https://mobilemonitoringsolutions.com/wp-content/uploads/2018/09/fullstackdeveloper.gif)]
 <h1 align="center">Hi 👋, I'm Himanshu Shekhar</h1>
 <h3 align="center">A passionate MERN STACK Developer from India</h3>
 <img align="left"  alt = "coding" width="400"  src ="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
