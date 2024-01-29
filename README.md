@@ -2,9 +2,15 @@
 <h3 align="center">A passionate MERN STACK Developer from India</h3>
 <img align="left"  alt = "coding" width="400"  src ="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshushekhar18&label=Profile%20views&color=0e75b6&style=flat" alt="himanshushekhar18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshushekhar18" alt="himanshushekhar18" /></a> </p>
+
+
+
+
+<p align="bottom"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshushekhar18" alt="himanshushekhar18" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithms, MERN STACK**
 
